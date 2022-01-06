@@ -98,7 +98,7 @@ class TimerState extends GetxController {
       }
       i++;
     });
-    //player.clearCache();
+    player.clearCache();
   }
 
   void disposed() {
